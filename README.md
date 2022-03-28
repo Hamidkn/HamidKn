@@ -17,13 +17,13 @@ Here are some ideas to get you started: -->
 <h3> Contact me </h3>
 <a href="https://www.linkedin.com/in/hamid-keshmiri-neghab-37ab9b4a/"> <img alt="linkedin" width="35px" src="linkedin.png" /></a>
 <a href="mailto:hamid.keshmiri@gmail.com"> <img alt=" twitter" width="35px" src="email.png" /> </a> 
-<a href="http://hamidkeshmiri.ir/"><img alt="pesonal website resume cv" width="35px" src="user.png" /></a>	
-<a href="https://www.researchgate.net/profile/Hamid-Keshmiri-Neghab"><img alt="pesonal website resume cv" width="35px" src="researchgate.png"/></a>
+<a href="http://hamidkeshmiri.ir/"><img alt="pesonal website resume cv" width="35px" src="website.png" /></a>	
+<!-- <a href="https://www.researchgate.net/profile/Hamid-Keshmiri-Neghab"><img alt="pesonal website resume cv" width="35px" src="researchgate.png"/></a> -->
 </div>
 <br />
-
-## stats
+<!-- ## stats -->
 <div align="center">
+<h3>Status:</h3>
 
 ![Xinyan's github stats](https://github-readme-stats.vercel.app/api?username=hamidkn&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Xinyan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamidkn&layout=compact&langs_count=8&hide_border=true)
