@@ -13,6 +13,10 @@ Here are some ideas to get you started: -->
 - ⚡ I’m looking for a position in industry
 - 📫 How to reach me: hamid.keshmiri@gmail.com, and neghab@fel.zcu.cz
 
+## Certificate
+<div align="center">
+<img src="UC-f2d9d761-23df-4ba4-91c6-6ef353d75e72.jpg" width="400px"></div>
+<!-- ![](UC-f2d9d761-23df-4ba4-91c6-6ef353d75e72.jpg) -->
 <div align="center">
 <h3> Contact me </h3>
 <a href="https://www.linkedin.com/in/hamid-keshmiri-neghab-37ab9b4a/"> <img alt="linkedin" width="35px" src="linkedin.png" /></a>
