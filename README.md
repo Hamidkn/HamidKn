@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m currently developing a system for online motion control of micro-robots.
 - 🤔 I’m currently developing a framework for multi-objective optimization, called [Artap](http://www.agros2d.org/artap/).
 - ⚡ I’m looking for a position in industry
-- 📫 How to reach me: hamid.keshmiri@gmail.com, and neghab@fel.zcu.cz
+- 📫 How to reach me: hamid.keshmiri@gmail.com
 
 ## Certificate
 <div align="center">
