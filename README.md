@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently a Ph.D candidate at UWB, in Electrical Engineering and Computer Modeling.
+<!--- 🔭 I’m currently a Ph.D candidate at UWB, in Electrical Engineering and Computer Modeling.
 - 🌱 I’m currently learning motion control of micro-robots and machine learning.
 - 👯 I’m currently developing a system for online motion control of micro-robots.
 - 🤔 I’m currently developing a framework for multi-objective optimization, called [Artap](http://www.agros2d.org/artap/).
-- ⚡ I’m looking for a position in industry
+- ⚡ I’m looking for a position in industry-->
 - 📫 How to reach me: hamid.keshmiri@gmail.com
 
 ## Certificate
